@@ -32,7 +32,4 @@ connection.connect();
 //node의 기본 포트는 3000, vue, react는 기본포트 3000
 app.listen(3000, function () {
     console.log('노드시작')
-})
 
-
-+1
